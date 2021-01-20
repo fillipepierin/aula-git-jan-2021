@@ -1,2 +1,3 @@
-Primeir Aula de GitKraken
+Primeira aula de GitKraken
+aprendendo os passos iniciais
 
